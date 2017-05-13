@@ -1,0 +1,11 @@
+.vertical-side-button {
+  position: fixed;
+  top: 50vh;
+  transform: translateY(-50%);
+  padding: 2em;
+  z-index: 1;
+  opacity: 0.5;
+  border: none;
+  cursor: pointer;
+  outline: none;
+}
